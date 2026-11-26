@@ -24,11 +24,9 @@ Technologies Used
 - Database Management System
 
 Project Information
-Project Name: Evidence Vault – Digital Evidence Management System
-
-Domain:Cybersecurity 
-
-Project Type:Academic Project
+-Project Name: Evidence Vault – Digital Evidence Management System
+-Domain:Cybersecurity 
+-Project Type:Academic Project
 
 Future Enhancements
 - Advanced evidence tracking.
