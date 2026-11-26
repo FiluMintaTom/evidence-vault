@@ -1,12 +1,12 @@
-# Evidence Vault – Digital Evidence Management System
+#  Evidence Vault – Digital Evidence Management System
 
-About the Project
+##  About the Project
 
 **Evidence Vault** is a Digital Evidence Management System developed to organize, store, and manage digital evidence and investigation-related records efficiently.
 
 The system provides a structured way to manage investigation cases, maintain digital evidence records, and establish relationships between cases and their associated evidence. It aims to simplify evidence management and improve the organization and accessibility of digital investigation records.
 
-Objectives
+##  Objectives
 
 - To maintain digital evidence records systematically.
 - To manage investigation cases efficiently.
@@ -14,7 +14,7 @@ Objectives
 - To improve the accessibility and management of digital records.
 - To maintain proper relationships between investigation cases and associated evidence.
 
-Key Features
+##  Key Features
 
 - **Case Management:** Create, view, and manage investigation cases.
 - **Evidence Management:** Store and maintain digital evidence records.
@@ -22,7 +22,7 @@ Key Features
 - **Database Management:** Maintain structured records using a relational database.
 - **Data Organization:** Establish relationships between cases and their associated evidence.
 
-Technologies Used
+##  Technologies Used
 
 - **Programming Language:** Python
 - **Database:** MySQL
@@ -30,7 +30,7 @@ Technologies Used
 - **Backend Framework:** Flask
 - **Frontend:** HTML, CSS
 
-Project Information
+##  Project Information
 
 | Category | Details |
 |---|---|
@@ -41,7 +41,7 @@ Project Information
 | Programming Language | Python |
 | Database | MySQL |
 
-Future Enhancements
+##  Future Enhancements
 
 - Advanced evidence tracking.
 - Improved user access control.
@@ -50,9 +50,10 @@ Future Enhancements
 - Enhanced user interface.
 - Additional investigation management features.
 
-Developer
+##  Developer
 
 Developed as an academic project with a focus on digital evidence management and cybersecurity.
 
+---
 
 **Evidence Vault – Organizing Digital Evidence for Efficient Investigation.**
