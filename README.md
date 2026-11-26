@@ -6,7 +6,7 @@ About the Project
 
 The system provides a structured way to manage investigation cases, maintain digital evidence records, and establish relationships between cases and their associated evidence. It aims to simplify evidence management and improve the organization and accessibility of digital investigation records.
 
-##  Objectives
+Objectives
 
 - To maintain digital evidence records systematically.
 - To manage investigation cases efficiently.
@@ -14,7 +14,7 @@ The system provides a structured way to manage investigation cases, maintain dig
 - To improve the accessibility and management of digital records.
 - To maintain proper relationships between investigation cases and associated evidence.
 
-##  Key Features
+Key Features
 
 - **Case Management:** Create, view, and manage investigation cases.
 - **Evidence Management:** Store and maintain digital evidence records.
@@ -22,7 +22,7 @@ The system provides a structured way to manage investigation cases, maintain dig
 - **Database Management:** Maintain structured records using a relational database.
 - **Data Organization:** Establish relationships between cases and their associated evidence.
 
-##  Technologies Used
+Technologies Used
 
 - **Programming Language:** Python
 - **Database:** MySQL
@@ -30,7 +30,7 @@ The system provides a structured way to manage investigation cases, maintain dig
 - **Backend Framework:** Flask
 - **Frontend:** HTML, CSS
 
-##  Project Information
+Project Information
 
 | Category | Details |
 |---|---|
@@ -41,7 +41,7 @@ The system provides a structured way to manage investigation cases, maintain dig
 | Programming Language | Python |
 | Database | MySQL |
 
-##  Future Enhancements
+Future Enhancements
 
 - Advanced evidence tracking.
 - Improved user access control.
@@ -50,10 +50,9 @@ The system provides a structured way to manage investigation cases, maintain dig
 - Enhanced user interface.
 - Additional investigation management features.
 
-##  Developer
+Developer
 
 Developed as an academic project with a focus on digital evidence management and cybersecurity.
 
----
 
 **Evidence Vault – Organizing Digital Evidence for Efficient Investigation.**
