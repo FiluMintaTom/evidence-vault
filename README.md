@@ -42,5 +42,3 @@ The system aims to simplify evidence management, maintain proper case records, a
 Developed as an academic project with a focus on Digital Forensics and Evidence Management.
 
 
-
-⭐ If you find this project interesting, consider giving the repository a star!
