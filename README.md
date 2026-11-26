@@ -27,7 +27,7 @@ The system aims to simplify evidence management, maintain proper case records, a
 
 **Project Name:** Evidence Vault – Digital Evidence Management System
 
-**Domain:** Cybersecurity / Digital Forensics
+**Domain:** Cybersecurity 
 
 **Project Type:** Academic Project
 
@@ -39,6 +39,6 @@ The system aims to simplify evidence management, maintain proper case records, a
 - Enhanced user interface.
 
 ##  Developer
-Developed as an academic project with a focus on Digital Forensics and Evidence Management.
+Developed as an academic project with a focus on Evidence Management.
 
 
