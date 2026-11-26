@@ -25,7 +25,9 @@ Technologies Used
 
 Project Information
 **Project Name:** Evidence Vault – Digital Evidence Management System
+
 **Domain:** Cybersecurity 
+
 **Project Type:** Academic Project
 
 Future Enhancements
